@@ -1,7 +1,8 @@
 • February Patch
 • Synced latest changes from upstream lineage ROM source
-• Switched back to no-kernel
+• Switched back to immensity-x
 • Enable some governors for testing purpose
 • KernelSU IMG available at support group
 • implement Signature spoofing from lineage4microg
-• Fix bugs
+• Improve battery efficiency 
+• Fix Bugs
